@@ -1,0 +1,34 @@
+# ~/.tmuxinator/jekyll.yml
+
+name: Jekyll
+root: ~/working/www/gkapfham/
+
+# Optional tmux socket
+# socket_name: jekyll-socket 
+
+# Runs before everything. Use it to start daemons etc.
+# pre: sudo /etc/rc.d/mysqld start
+
+# Runs in each window and pane before window/pane specific commands. Useful for setting up interpreter versions.
+# pre_window: rbenv shell 2.0.0-p247
+
+# Pass command line options to tmux. Useful for specifying a different tmux.conf.
+# tmux_options: -f ~/.tmux.mac.conf
+
+# Change the command to call tmux.  This can be used by derivatives/wrappers like byobu.
+# tmux_command: byobu
+
+windows:
+  - Jekyll:
+      layout: 6336,144x40,0,0{72x40,0,0[72x20,0,0,29,72x19,0,21,31],71x40,73,0,30} 
+      panes:
+        - rsync:
+            - cd _site
+            - ls
+        - jekyll:
+            - jekyll serve --watch
+        - provide:
+            - ls
+        # - # run zsh
+        # - #nothing
+        # - #mothing
