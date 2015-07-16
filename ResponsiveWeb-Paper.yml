@@ -1,7 +1,7 @@
 # ~/.tmuxinator/RespnsiveWeb-Paper.yml
 
-name: ResponsiveWeb-paper
-root: /home/gkapfham/working/research/writing/softwaretesting/responsiveweb/responsive-web-testing-paper
+name: ResponsiveWeb-Paper
+root: ~/working/research/writing/softwaretesting/responsiveweb/responsive-web-testing-paper
 
 windows:
   - Paper:
