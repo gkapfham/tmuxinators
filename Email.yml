@@ -1,0 +1,10 @@
+# ~/.tmuxinator/Web.yml
+
+name: Email
+root: /home/gkapfham
+
+windows:
+  - Email-read:
+    - mutt
+  - Twitter:
+    - t timeline -n 10
