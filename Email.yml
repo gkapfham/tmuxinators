@@ -4,7 +4,7 @@ name: Email
 root: /home/gkapfham
 
 windows:
-  - Email-read:
+  - Email:
     - mutt
   - Twitter:
     - t timeline -n 10
