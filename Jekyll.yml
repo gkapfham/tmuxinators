@@ -5,12 +5,11 @@ root: ~/working/www/gkapfham/
 
 windows:
   - Jekyll:
-      layout: 6336,144x40,0,0{72x40,0,0[72x20,0,0,29,72x19,0,21,31],71x40,73,0,30} 
+      layout: 6336,144x40,0,0{72x40,0,0[72x20,0,0,29,72x19,0,21,31],71x40,73,0,30}
       panes:
         - rsync:
             - cd _site
-            - ls
         - jekyll:
             - jekyll serve --watch
         - provide:
-            - ls
+            -
