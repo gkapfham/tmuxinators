@@ -11,3 +11,5 @@ windows:
             -
         - second:
             -
+  - Git:
+    - tig
