@@ -1,0 +1,13 @@
+# ~/.tmuxinator/CurriculumVitae.yml
+
+name: CoverageCriteria-Paper
+root: ~/working/writing/curriculum-vitae
+
+windows:
+  - CurriculumVitae:
+      layout: 94ef,177x42,0,0[177x21,0,0,7,177x20,0,22,8]
+      panes:
+        - first:
+            -
+        - second:
+            -
