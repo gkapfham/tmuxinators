@@ -1,13 +1,17 @@
 # ~/.tmuxinator/RespnsiveWeb-Paper.yml
 
 name: ResponsiveWeb-Paper
-root: ~/working/research/writing/softwaretesting/responsiveweb/responsive-web-testing-paper
+root: ~/working/research/writing/softwaretesting/responsiveweb/ase-2015-new-ideas
 
 windows:
-  - Paper:
-      layout: 94ef,177x42,0,0[177x21,0,0,7,177x20,0,22,8]
+  - Write:
+    - vim ase2015newideas.tex
+  - Control:
+      layout: 88a4,159x40,0,0[159x20,0,0,0,159x19,0,21{79x19,0,21,1,79x19,80,21,2}]
       panes:
-        - first:
+        - words:
             -
-        - second:
+        - git:
+            -
+        - status:
             -
