@@ -1,6 +1,6 @@
-# ~/.tmuxinator/Tmuxinators.yml
+# ~/.tmuxinator/Paper-Reviews.yml
 
-name: Tmuxinators
+name: Paper-Reviews
 root: /home/gkapfham/working/writing/paperreviews
 
 windows:
