@@ -11,7 +11,7 @@ windows:
       panes:
         - words:
             -
-        - git:
+        - source:
             -
-        - status:
-            -
+        - destination:
+            - cd /home/gkapfham/.tmuxinator
