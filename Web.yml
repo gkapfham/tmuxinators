@@ -4,12 +4,25 @@ name: Web
 root: ~/working/www/gkapfham/
 
 windows:
-  - Control:
-      layout: 94ef,177x42,0,0[177x21,0,0,7,177x20,0,22,8]
-      panes:
-        - first:
-            -
-        - second:
-            -
-  - Edit:
+  - Write:
     - vim index.md
+  - Control:
+      layout: 88a4,159x40,0,0[159x20,0,0,0,159x19,0,21{79x19,0,21,1,79x19,80,21,2}]
+      panes:
+        - words:
+            -
+        - git:
+            -
+        - status:
+            -
+
+# windows:
+#   - Control:
+#       layout: 94ef,177x42,0,0[177x21,0,0,7,177x20,0,22,8]
+#       panes:
+#         - first:
+#             -
+#         - second:
+#             -
+#   - Edit:
+#     - vim index.md
