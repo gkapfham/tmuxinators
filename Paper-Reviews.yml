@@ -1,0 +1,17 @@
+# ~/.tmuxinator/Tmuxinators.yml
+
+name: Tmuxinators
+root: /home/gkapfham/working/writing/paperreviews
+
+windows:
+  - Write:
+    - vim
+  - Control:
+      layout: 88a4,159x40,0,0[159x20,0,0,0,159x19,0,21{79x19,0,21,1,79x19,80,21,2}]
+      panes:
+        - main:
+            -
+        - left:
+            -
+        - right:
+            -
