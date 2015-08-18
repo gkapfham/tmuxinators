@@ -1,13 +1,19 @@
 # ~/.tmuxinator/CurriculumVitae.yml
 
-name: CoverageCriteria-Paper
+name: CurriculumVitae
 root: ~/working/writing/curriculum-vitae
 
 windows:
-  - CurriculumVitae:
-      layout: 94ef,177x42,0,0[177x21,0,0,7,177x20,0,22,8]
+  - Code:
+    - vim curriculum_vitae_kapfhammer.tex
+
+  - Control:
+      layout: 88a4,159x40,0,0[159x20,0,0,0,159x19,0,21{79x19,0,21,1,79x19,80,21,2}]
       panes:
-        - first:
+        - main:
             -
-        - second:
+        - left:
             -
+        - right:
+            -
+
