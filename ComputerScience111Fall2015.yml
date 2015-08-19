@@ -1,6 +1,6 @@
-# ~/.tmuxinator/ComputerScience112Fall2015.yml
+# ~/.tmuxinator/ComputerScience111Fall2015.yml
 
-name: ComputerScience112Fall2015
+name: ComputerScience111Fall2015
 root: /home/gkapfham/working/teaching/cs111F2015
 
 windows:
