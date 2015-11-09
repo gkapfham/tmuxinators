@@ -1,7 +1,7 @@
 # ~/.tmuxinator/ReDeCheck.yml
 
 name: ReDeCheck
-root: /home/gkapfham/working/teaching/cs111F2015
+root: /home/gkapfham/working/research/source/redecheck
 
 windows:
   - Code:
