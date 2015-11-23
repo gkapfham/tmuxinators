@@ -12,4 +12,4 @@ windows:
         - second:
             -
   - Edit:
-    - nvim .vimrc
+    - vim .vimrc
