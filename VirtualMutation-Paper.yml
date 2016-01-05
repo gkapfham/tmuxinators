@@ -4,7 +4,7 @@ name: VirtualMutation-Paper
 root: /home/gkapfham/working/research/writing/softwaretesting/databases/ast2016-virtual-mutation
 
 windows:
-  - Git:
+  - Paper:
     - vim
   - Control:
       layout: 94ef,177x42,0,0[177x21,0,0,7,177x20,0,22,8]
