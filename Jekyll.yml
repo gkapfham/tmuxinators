@@ -10,6 +10,6 @@ windows:
         - rsync:
             - cd _site
         - jekyll:
-            - jekyll serve --watch
+            - jekyll serve --watch --incremental
         - provide:
             -
