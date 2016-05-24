@@ -23,12 +23,9 @@ these configuration files in a disciplined fashion.
 
 ## Problems or Praise?
 
-If you have any problems with building, installing, or executing ReDeCheck, then please feel free to create an issue
-associated with this Git repository using the "Issues" link at the top of this site. The contributors to the
-`redecheck-tool` the repository will do all that they can to resolve your issue and ensure that the entire tool works
-well in your development environment and for your web site. If you find that ReDeCheck works well, then we also
-encourage you to "star" and "watch" the project!
-
-Thank you for your interest in responsive web testing and the ReDeCheck tool!
-
-
+If you have any problems with downloading or understanding these Tmuxinator configuration files, then please feel free
+to create an issue associated with this Git repository using the "Issues" link at the top of this site. As the sole
+contributor to the `tmuxinator` repository, I will do everything possible to resolve your issue and ensure that the
+entire tool works well in your development environment and for your web site. Remember, this repository is being made
+publicly available so as to provide examples of how to write Tmuxinator configurations. If you find that these files
+help you in preparing your own Tmuxinator configurations, then I also encourage you to "star" and "watch" this project!
