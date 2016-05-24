@@ -1,0 +1,15 @@
+# ~/.tmuxinator/StatisticalCode-Paper.yml
+
+name: StatisticalCode-Paper
+root: /home/gkapfham/working/research/writing/softwaretesting/methods/sbst2016-statistical-code
+
+windows:
+  - Paper:
+    - vim
+  - Control:
+      layout: 94ef,177x42,0,0[177x21,0,0,7,177x20,0,22,8]
+      panes:
+        - first:
+            -
+        - second:
+            -
