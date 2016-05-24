@@ -1,0 +1,15 @@
+# ~/.tmuxinator/ReDeCheck-Tool.yml
+
+name: ReDeCheck-Tool
+root: /home/gkapfham/working/research/source/redecheck-tool
+
+windows:
+  - Code:
+    - vim
+  - Control:
+      layout: 94ef,177x42,0,0[177x21,0,0,7,177x20,0,22,8]
+      panes:
+        - first:
+            -
+        - second:
+            -
