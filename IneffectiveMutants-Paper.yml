@@ -4,6 +4,8 @@ name: IneffectiveMutants-Paper
 root: ~/working/research/writing/softwaretesting/databases/ineffective-mutants
 
 windows:
+  - Edit:
+    - vim
   - Paper:
       layout: 94ef,177x42,0,0[177x21,0,0,7,177x20,0,22,8]
       panes:
@@ -11,5 +13,4 @@ windows:
             -
         - second:
             -
-  - Git:
-    - tig
+
