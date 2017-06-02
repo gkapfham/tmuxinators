@@ -1,7 +1,7 @@
 # ~/.tmuxinator/Cvsee.yml
 
 name: Cvsee
-root: ~/configure/tmuxinators
+root: /home/gkapfham/working/source/cvsee/cvsee
 
 windows:
   - Write:
