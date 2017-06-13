@@ -1,0 +1,17 @@
+# ~/.tmuxinator/Data-Mining-Predict-Scores-Paper.yml
+
+name: Data-Mining-Predict-Scores-Paper
+root: /home/gkapfham/working/research/writing/softwaretesting/mutation/sen2017-paper
+
+windows:
+  - Write:
+    -
+  - Control:
+      layout: 88a4,159x40,0,0[159x20,0,0,0,159x19,0,21{79x19,0,21,1,79x19,80,21,2}]
+      panes:
+        - words:
+            -
+        - source:
+            -
+        - destination:
+            -
