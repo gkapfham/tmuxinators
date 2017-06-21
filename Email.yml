@@ -1,4 +1,4 @@
-# ~/.tmuxinator/Web.yml
+# ~/.tmuxinator/Email.yml
 
 name: Email
 root: /home/gkapfham
@@ -6,5 +6,5 @@ root: /home/gkapfham
 windows:
   - Email:
     - mutt
-  - Twitter:
-    - t timeline -n 10
+  - Control:
+    -
