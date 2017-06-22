@@ -1,0 +1,17 @@
+# ~/.tmuxinator/ReDeCheck-AutomaticDetection-Demo-Paper.yml
+
+name: ReDeCheck-AutomaticDetection-Demo-Paper
+root: /home/gkapfham/working/research/writing/softwaretesting/responsiveweb/issta-demo
+
+windows:
+  - Write:
+    -
+  - Control:
+      layout: 88a4,159x40,0,0[159x20,0,0,0,159x19,0,21{79x19,0,21,1,79x19,80,21,2}]
+      panes:
+        - words:
+            -
+        - source:
+            -
+        - destination:
+            -
