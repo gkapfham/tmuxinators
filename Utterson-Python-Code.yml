@@ -1,0 +1,17 @@
+# ~/.tmuxinator/Utterson-Python-Code.yml
+
+name: Utterson-Python-Code
+root: /home/gkapfham/working/research/source/utterson.py
+
+windows:
+  - Code:
+    -
+  - Control:
+      layout: 88a4,159x40,0,0[159x20,0,0,0,159x19,0,21{79x19,0,21,1,79x19,80,21,2}]
+      panes:
+        - one:
+            -
+        - two:
+            -
+        - three:
+            -
