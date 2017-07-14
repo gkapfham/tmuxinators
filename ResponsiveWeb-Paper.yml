@@ -5,7 +5,7 @@ root: ~/working/research/writing/softwaretesting/responsiveweb/ase-2015-new-idea
 
 windows:
   - Write:
-    - vim ase2015newideas.tex
+    -
   - Control:
       layout: 88a4,159x40,0,0[159x20,0,0,0,159x19,0,21{79x19,0,21,1,79x19,80,21,2}]
       panes:
