@@ -1,7 +1,7 @@
 # ~/.tmuxinator/ComputerScience111Fall2017.yml
 
 name: ComputerScience111Fall2017
-root: /home/gkapfham/working/teaching/github-classroom/Allegheny-Computer-Science-111-F2017/handouts/cs111-F2017-labs
+root: /home/gkapfham/working/teaching/github-classroom/Allegheny-Computer-Science-111-F2017/
 
 windows:
   - Writing:
