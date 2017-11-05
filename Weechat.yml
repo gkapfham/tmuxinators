@@ -1,0 +1,10 @@
+# ~/.tmuxinator/Weechat.yml
+
+name: Weechat
+root: /home/gkapfham
+
+windows:
+  - Weechat:
+    - weechat
+  - Control:
+    -
