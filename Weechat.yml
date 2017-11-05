@@ -5,6 +5,7 @@ root: /home/gkapfham
 
 windows:
   - Weechat:
+    - export TERM="tmux-256color"
     - weechat
   - Control:
     -
