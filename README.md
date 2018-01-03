@@ -24,16 +24,27 @@ You can type the following command if you want to clone this repository:
 git clone https://github.com/gkapfham/tmuxinators.git
 ```
 
-Now, you can type `cd tmuxinators` and start to browse the Tmuxinator configuration files that are available. I
-suggest that you make symbolic links from the `.tmuxinator` directory to this repository if you want to create and use
-these configuration files in a disciplined fashion.
+Now, you can type `cd tmuxinators` and start to browse the Tmuxinator
+configuration files that are available. I suggest that you make symbolic links
+from the `.tmuxinator` directory to this repository if you want to create and
+use these configuration files in a disciplined fashion. For example, when you
+type the following command in the `.tmuxinator` directory, it will make a
+symbolic link to the `Weechat.yml` file that is in this repository that is
+stored inside of the `configure` directory.
 
-## Problems or Praise?
+```shell
+ln -s /home/gkapfham/configure/tmuxinators/Weechat.yml Weechat.yml
+```
 
-If you have any problems with downloading or understanding these Tmuxinator configuration files, then please create an
-issue associated with this Git repository using the "Issues" link at the top of this site. As the sole contributor to
-the `tmuxinator` repository, I will do everything possible to resolve your issue and ensure that all of the Tmuxinator
-configurations are clear and, potentially, best suited to working in your development environment.  Remember, this
-repository is being made publicly available so as to provide examples of how to write Tmuxinator configurations. If you
-find that these files help you in preparing your own Tmuxinator configurations, then I also encourage you to "star" and
-"watch" this project!
+## Problems or Praise
+
+If you have any problems with downloading or understanding these Tmuxinator
+configuration files, then please create an issue associated with this Git
+repository using the "Issues" link at the top of this site. As the sole
+contributor to the `tmuxinator` repository, I will do everything possible to
+resolve your issue and ensure that all of the Tmuxinator configurations are
+clear and, potentially, best suited to working in your development environment.
+Remember, this repository is being made publicly available so as to provide
+examples of how to write Tmuxinator configurations. If you find that these files
+help you in preparing your own Tmuxinator configurations, then I also encourage
+you to "star" and "watch" this project!
