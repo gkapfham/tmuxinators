@@ -1,7 +1,7 @@
 # ~/.tmuxinator/IneffectiveMutants-Code.yml
 
 name: IneffectiveMutants-Code
-root: ~/working/research/writing/softwaretesting/databases/ineffective-mutants/_Rscripts
+root: /home/gkapfham/working/research/source/analysis/databases/ineffectivemutants
 
 windows:
   - Code:
