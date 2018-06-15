@@ -10,6 +10,6 @@ windows:
         - commands:
             -
         - jekyll:
-            - gulp serve
+            -
         - provide:
             -
