@@ -1,7 +1,7 @@
 # ~/.tmuxinator/PyGotham2018-Presentation.yml
 
 name: PyGotham2018-Presentation
-root: /home/gkapfham/working/research/presentations/pyohio2018-presentation
+root: /home/gkapfham/working/research/presentations/pygotham2018-presentation
 
 windows:
   - Presentation:
