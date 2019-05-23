@@ -3,7 +3,7 @@
 This repository contains the Tmuxinator configuration files used to setup Tmux
 sessions for all of the research papers, presentations, and software
 development projects of [Gregory M.
-Kapfhammer](http://www.cs.allegheny.edu/sites/gkapfham). If you would like to
+Kapfhammer](https://www.gregorykapfhammer.com/). If you would like to
 learn more about Tmuxinator, then please visit the
 [Tmuxinator](https://github.com/tmuxinator/tmuxinator) site. Essentially,
 Tmuxinator allows you to write configuration files that support the quick and
@@ -38,13 +38,13 @@ ln -s /home/gkapfham/configure/tmuxinators/Weechat.yml Weechat.yml
 
 ## Problems or Praise
 
-If you have any problems with downloading or understanding these Tmuxinator
-configuration files, then please create an issue associated with this Git
-repository using the "Issues" link at the top of this site. As the sole
-contributor to the `tmuxinator` repository, I will do everything possible to
-resolve your issue and ensure that all of the Tmuxinator configurations are
-clear and, potentially, best suited to working in your development environment.
-Remember, this repository is being made publicly available so as to provide
-examples of how to write Tmuxinator configurations. If you find that these files
-help you in preparing your own Tmuxinator configurations, then I also encourage
-you to "star" and "watch" this project!
+If you have any problems with using these Tmuxinator configuration files, then
+please raise an issue associated with this Git repository using the "Issues"
+link at the top of this site. As the sole contributor to the `tmuxinator`
+repository, I will do everything possible to resolve your issue and ensure that
+all of the Tmuxinator configurations are clear and, potentially, best suited to
+working in your development environment. Remember, this repository is being made
+publicly available so as to provide examples of how to write Tmuxinator
+configurations. If you find that these files help you in preparing your own
+Tmuxinator configurations, then I also encourage you to "star" and "watch" this
+project!
