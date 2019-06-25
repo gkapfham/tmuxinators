@@ -1,7 +1,7 @@
 # ~/.tmuxinator/Python-Talk-Abstracts.yml
 
 name: Python-Talk-Abstracts
-root: /home/gkapfham/working/research/writing/industry/python-talk-proposals
+root: /home/gkapfham/working/research/writing/industry/python-talk-abstracts
 
 windows:
   - Writing:
