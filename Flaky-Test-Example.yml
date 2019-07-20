@@ -1,4 +1,4 @@
-# ~/.tmuxinator/Flaky-Flaky-Test-Example.yml
+# ~/.tmuxinator/Flaky-Test-Example.yml
 
 name: Flaky-Test-Example
 root: /home/gkapfham/working/research/source/flaky-test-examples
