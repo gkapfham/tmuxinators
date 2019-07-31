@@ -1,6 +1,6 @@
 # ~/.tmuxinator/Vitamin-Onec-Code.yml
 
-name: GatorGrader-Code
+name: Vitamin-Onec-Code
 root: /home/gkapfham/working/source/vim-vitamin-onec
 
 windows:
