@@ -1,0 +1,19 @@
+# ~/.tmuxinator/ComputerScience203Spring2020.yml
+
+name: ComputerScience203Spring2020
+root: /home/gkapfham/working/teaching/github-classroom/Allegheny-Computer-Science-203-S2020
+
+windows:
+  - Writing:
+    -
+  - Control:
+      layout: 1138,159x42,0,0[159x21,0,0{79x21,0,0,59,79x21,80,0,60},159x20,0,22{79x20,0,22,61,79x20,80,22,62}]
+      panes:
+        - one:
+            -
+        - two:
+            -
+        - three:
+            -
+        - four:
+            -
