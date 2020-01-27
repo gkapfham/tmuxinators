@@ -1,6 +1,6 @@
-# ~/.tmuxinator/GatorGradle-Sample.yml
+# ~/.tmuxinator/GatorGradle-Sample-Code.yml
 
-name: GatorGradle-Sample
+name: GatorGradle-Sample-Code
 root: /home/gkapfham/working/source/samples/gatorgrader-samplelab
 
 windows:
