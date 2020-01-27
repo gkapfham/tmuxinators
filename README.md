@@ -36,7 +36,14 @@ stored inside of the `configure` directory.
 ln -s /home/gkapfham/configure/tmuxinators/systems/Weechat.yml Weechat.yml
 ```
 
+This repository is also setup to take advantage of the `stow` command for
+automatically creating the symbolic links in the specified `.tmuxinator`
+directory. For instance, typing the following command would create all the
+symbolic links for the Tmuxinators in the `papers` directory.
 
+```shell
+stow papers -t ~/.tmuxinator
+```
 
 ## Problems or Praise
 
