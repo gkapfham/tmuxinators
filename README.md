@@ -1,8 +1,8 @@
 # tmuxinators
 
 <p align="center">
-<b>
 <img src="https://raw.githubusercontent.com/gkapfham/tmuxinators/master/.github/tmuxinators-logo.jpeg" alt="Tmuxinators Logo"</img>
+<b>
 Fast Project Setup Using Tmux and Tmuxinator!
 </b>
 </p>
