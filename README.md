@@ -1,20 +1,18 @@
 # tmuxinators
 
 This repository contains the Tmuxinator configuration files used to setup Tmux
-sessions for all of the research papers, presentations, and software
-development projects of [Gregory M.
-Kapfhammer](https://www.gregorykapfhammer.com/). If you would like to
-learn more about Tmuxinator, then please visit the
+sessions for all the research papers, presentations, and software development
+projects of [Gregory M. Kapfhammer](https://www.gregorykapfhammer.com/). If you
+would like to learn more about Tmuxinator, then please visit the
 [Tmuxinator](https://github.com/tmuxinator/tmuxinator) site. Essentially,
 Tmuxinator allows you to write configuration files that support the quick and
 repeatable setup of a well-structured Tmux session. If you are new to Tmux and
 the joys of using a "terminal multiplexor", then please visit the
 [Tmux](https://tmux.github.io/) site and do some reading of the many online
-articles about this tool. Please note that all of the Tmuxinators in this
-repository are "hard-coded" to work for my development environment and
-projects. Even though they are heavily customized, my hope is that they will
-give examples of different facets of Tmuxinator (e.g., the layout specification
-strings).
+articles about this tool. Please note that all the Tmuxinators in this
+repository are "hard-coded" to work for my development environment and projects.
+Even though they are heavily customized, my hope is that they will give examples
+of different facets of Tmuxinator (e.g., the layout specification strings).
 
 ## Installation Instructions
 
