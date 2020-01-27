@@ -1,0 +1,15 @@
+# ~/.tmuxinator/ReDeCheck-Improve-Quality-Tool.yml
+
+name: ReDeCheck-Improve-Quality-Tool
+root: /home/gkapfham/working/research/writing/softwaretesting/responsiveweb/issta-demo
+
+windows:
+  - Paper:
+    -
+  - Control:
+      layout: 94ef,177x42,0,0[177x21,0,0,7,177x20,0,22,8]
+      panes:
+        - first:
+            -
+        - second:
+            -
