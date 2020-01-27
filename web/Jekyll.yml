@@ -1,4 +1,4 @@
-# ~/.tmuxinator/jekyll.yml
+# ~/.tmuxinator/Jekyll.yml
 
 name: Jekyll
 root: /home/gkapfham/working/web/www.gregorykapfhammer.com
