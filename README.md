@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/gkapfham/tmuxinators/master/.github/tmuxinators-logo.jpeg" alt="Tmuxinators Logo"</img>
 <br>
 <b>
-Fast Project Setup Using Tmux and Tmuxinator!
+Fast Project Setup Using Tmux and Tmuxinator
 </b>
 </p>
 
