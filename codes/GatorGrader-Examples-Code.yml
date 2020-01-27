@@ -1,6 +1,6 @@
-# ~/.tmuxinator/GatorGrader-Examples.yml
+# ~/.tmuxinator/GatorGrader-Examples-Code.yml
 
-name: GatorGrader-Examples
+name: GatorGrader-Examples-Code
 root: /home/gkapfham/working/source/gatorgrader-examples
 
 windows:
