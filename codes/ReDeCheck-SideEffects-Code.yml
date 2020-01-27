@@ -1,0 +1,15 @@
+# ~/.tmuxinator/ReDeCheck-SideEffects-Code.yml
+
+name: ReDeCheck-SideEffects-Code
+root: /home/gkapfham/working/research/source/analysis/redecheck/redecheck-journal-paper-data/redecheck-data
+
+windows:
+  - Code:
+    -
+  - Control:
+      layout: 94ef,177x42,0,0[177x21,0,0,7,177x20,0,22,8]
+      panes:
+        - first:
+            -
+        - second:
+            -
