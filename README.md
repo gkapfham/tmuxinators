@@ -33,8 +33,10 @@ symbolic link to the `Weechat.yml` file that is in this repository that is
 stored inside of the `configure` directory.
 
 ```shell
-ln -s /home/gkapfham/configure/tmuxinators/Weechat.yml Weechat.yml
+ln -s /home/gkapfham/configure/tmuxinators/systems/Weechat.yml Weechat.yml
 ```
+
+
 
 ## Problems or Praise
 
