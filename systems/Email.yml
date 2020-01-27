@@ -1,0 +1,10 @@
+# ~/.tmuxinator/Email.yml
+
+name: Email
+root: /home/gkapfham
+
+windows:
+  - Email:
+    - neomutt -n
+  - Control:
+    - cd .mutt
