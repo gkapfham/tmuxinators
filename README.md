@@ -1,5 +1,13 @@
 # tmuxinators
 
+![Image of Logo](.github/tmuxinators-logo.jpeg)
+
+<p align="center">
+<b>
+Fast Project Setup Using Tmux and Tmuxinator!
+</b>
+</p>
+
 This repository contains the Tmuxinator configuration files used to setup Tmux
 sessions for all the research papers, presentations, and software development
 projects of [Gregory M. Kapfhammer](https://www.gregorykapfhammer.com/). If you
