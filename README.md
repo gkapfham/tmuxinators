@@ -16,11 +16,11 @@ would like to learn more about Tmuxinator, then please visit the
 Tmuxinator allows you to write configuration files that support the quick and
 repeatable setup of a well-structured Tmux session. If you are new to Tmux and
 the joys of using a "terminal multiplexor", then please visit the
-[Tmux](https://tmux.github.io/) site and do some reading of the many online
-articles about this tool. Please note that all the Tmuxinators in this
-repository are "hard-coded" to work for my development environment and projects.
-Even though they are heavily customized, my hope is that they will give examples
-of different facets of Tmuxinator (e.g., the layout specification strings).
+[Tmux](https://tmux.github.io/) site and read some of the online articles about
+this tool. Please note that all the Tmuxinators in this repository are
+"hard-coded" to work for my development environment and projects. Even though
+they are heavily customized, my hope is that they will give examples of
+different facets of Tmuxinator (e.g., the layout specification strings).
 
 ## Installation Instructions
 
