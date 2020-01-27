@@ -1,6 +1,6 @@
-# ~/.tmuxinator/ReDeCheck-AutomaticDetection-Code.yml
+# ~/.tmuxinator/ReDeCheck-Automatic-Detection-Code.yml
 
-name: ReDeCheck-AutomaticDetection-Code
+name: ReDeCheck-Automatic-Detection-Code
 root: /home/gkapfham/working/research/source/analysis/redecheck/detectcommonlayoutfailures
 
 windows:
