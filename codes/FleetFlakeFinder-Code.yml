@@ -1,4 +1,4 @@
-# ~/.tmuxinator/FleetFlakeFinder.yml
+# ~/.tmuxinator/FleetFlakeFinder-Code.yml
 
 name: FleetFlakeFinder-Code
 root: /home/gkapfham/working/source/fleetflakefinder
