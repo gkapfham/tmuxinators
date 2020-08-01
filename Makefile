@@ -1,8 +1,12 @@
 ## Create the required directory for the tmuxinators {{{
 
-## Create the .tmuxinators/ directory to store all tmuxinators
+## Delete and create the .tmuxinators/ directory to store all tmuxinators
 delete-and-create-tmuxinators:
 	rm -rf ~/.tmuxinators
+	mkdir -p ~/.tmuxinators
+
+## Create the .tmuxinators/ directory to store all tmuxinators
+create-tmuxinators:
 	mkdir -p ~/.tmuxinators
 
 # }}}
@@ -69,7 +73,7 @@ stow-writings:
 stow: stow-analyses stow-bibliographies stow-codes stow-configurations stow-courses stow-extras stow-papers stow-presentations stow-proposals stow-systems stow-todo stow-web stow-writings
 
 ## Create directories and stow all of the tmuxinators in correct directory
-tmuxinators: delete-and-create-tmuxinators stow
+tmuxinators: create-tmuxinators stow
 
 # }}}
 
