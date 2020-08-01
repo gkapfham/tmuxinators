@@ -13,12 +13,60 @@ delete-and-create-tmuxinators:
 stow-analyses:
 	stow analyses -t ~/.tmuxinators
 
+## Run stow for a package
+stow-bibliographies:
+	stow bibliographies -t ~/.tmuxinators
+
+## Run stow for a package
+stow-codes:
+	stow codes -t ~/.tmuxinators
+
+## Run stow for a package
+stow-configurations:
+	stow configurations -t ~/.tmuxinators
+
+## Run stow for a package
+stow-courses:
+	stow courses -t ~/.tmuxinators
+
+## Run stow for a package
+stow-extras:
+	stow extras -t ~/.tmuxinators
+
+## Run stow for a package
+stow-papers:
+	stow papers -t ~/.tmuxinators
+
+## Run stow for a package
+stow-presentations:
+	stow presentations -t ~/.tmuxinators
+
+## Run stow for a package
+stow-proposals:
+	stow proposals -t ~/.tmuxinators
+
+## Run stow for a package
+stow-systems:
+	stow systems -t ~/.tmuxinators
+
+## Run stow for a package
+stow-todo:
+	stow todo -t ~/.tmuxinators
+
+## Run stow for a package
+stow-web:
+	stow web -t ~/.tmuxinators
+
+## Run stow for a package
+stow-writings:
+	stow writings -t ~/.tmuxinators
+
 # }}}
 
 ## Composite rules {{{
 
-## Run stow for all rules for all subdirectories
-stow: stow-analyses
+## Run stow for all rules for all subdirectories that are stow-able
+stow: stow-analyses stow-bibliographies stow-codes stow-configurations stow-courses stow-extras stow-papers stow-presentations stow-proposals stow-systems stow-todo stow-web stow-writings
 
 ## Create directories and stow all of the tmuxinators in correct directory
 tmuxinators: delete-and-create-tmuxinators stow
