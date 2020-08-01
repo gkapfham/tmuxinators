@@ -51,6 +51,13 @@ symbolic links for the Tmuxinators in the `papers` directory.
 stow papers -t ~/.tmuxinator
 ```
 
+If you want to create the required symlinks for all of the tmuxinators that are
+available in this repository, then you can type the command:
+
+```shell
+make tmuxinators
+```
+
 ## Problems or Praise
 
 If you have any problems with using these Tmuxinator configuration files, then
