@@ -5,6 +5,7 @@ root: /home/gkapfham
 
 windows:
   - Email:
-    - neomutt -n
+    # - neomutt -n
+    - mutt
   - Control:
     - cd .mutt
