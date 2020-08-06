@@ -6,6 +6,8 @@ root: /home/gkapfham
 windows:
   - Weechat:
     - export TERM="tmux-256color"
-    - weechat
+    # Do not run weechat because it does
+    # not seem to scale correctly in the window!
+    # - weechat
   - Control:
     -
