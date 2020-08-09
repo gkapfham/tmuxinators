@@ -73,7 +73,7 @@ stow-writings:
 stow: stow-analyses stow-bibliographies stow-codes stow-configurations stow-courses stow-extras stow-papers stow-presentations stow-proposals stow-systems stow-todo stow-web stow-writings
 
 ## Create directories and stow all of the tmuxinator in correct directory
-tmuxinator: create-tmuxinator stow
+tmuxinators: create-tmuxinator stow
 
 # }}}
 
@@ -88,6 +88,6 @@ help:
 ## Default {{{
 
 ## Specify that the default is full installation of the tmuxinator
-.DEFAULT_GOAL := tmuxinator
+.DEFAULT_GOAL := tmuxinators
 
 # }}}
