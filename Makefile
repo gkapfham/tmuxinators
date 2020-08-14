@@ -38,6 +38,10 @@ stow-extras:
 	stow extras -t ~/.tmuxinator
 
 ## Run stow for a package
+stow-media:
+	stow media -t ~/.tmuxinator
+
+## Run stow for a package
 stow-papers:
 	stow papers -t ~/.tmuxinator
 
@@ -70,7 +74,7 @@ stow-writings:
 ## Composite rules {{{
 
 ## Run stow for all rules for all subdirectories that are stow-able
-stow: stow-analyses stow-bibliographies stow-codes stow-configurations stow-courses stow-extras stow-papers stow-presentations stow-proposals stow-systems stow-todo stow-web stow-writings
+stow: stow-analyses stow-bibliographies stow-codes stow-configurations stow-courses stow-extras stow-media stow-papers stow-presentations stow-proposals stow-systems stow-todo stow-web stow-writings
 
 ## Create directories and stow all of the tmuxinator in correct directory
 tmuxinators: create-tmuxinator stow
