@@ -1,6 +1,6 @@
 # ~/.tmuxinator/Recommendation-Letters-Writing.yml
 
-name: Recommendation-Letters-Writing.yml
+name: Recommendation-Letters-Writing
 root: /home/gkapfham/working/writing/recommend/bagashviliREU2021
 
 windows:
