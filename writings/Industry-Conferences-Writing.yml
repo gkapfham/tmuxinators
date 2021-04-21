@@ -1,7 +1,7 @@
 # ~/.tmuxinator/Industry-Conferences-Writing.yml
 
 name: Industry-Conferences-Writing
-root: /home/gkapfham/working/research/writing/industry
+root: /home/gkapfham/working/research/writing/industry/industry-talk-abstracts
 
 windows:
   - Code:
