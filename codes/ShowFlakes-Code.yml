@@ -1,7 +1,7 @@
 # ~/.tmuxinator/ShowFlakes-Code.yml
 
 name: ShowFlakes-Code
-root: /home/gkapfham/working/source/showflakes
+root: /home/gkapfham/working/research/source/showflakes
 
 windows:
   - Code:
