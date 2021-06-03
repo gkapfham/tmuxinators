@@ -1,7 +1,7 @@
 # ~/.tmuxinator/AVMf-Code.yml
 
 name: AVMf-Code
-root: /home/gkapfham/working/source/avmf
+root: /home/gkapfham/working/research/source/avmf
 
 windows:
   - Code:
