@@ -1,0 +1,19 @@
+# ~/.tmuxinator/Flaky-Tests-Causes-Python-Journal.yml
+
+name: Flaky-Tests-Causes-Python-Journal
+root: /home/gkapfham/working/research/writing/softwaretesting/flakytests/ese-2021
+
+windows:
+  - Writing:
+    -
+  - Control:
+      layout: 1138,159x42,0,0[159x21,0,0{79x21,0,0,59,79x21,80,0,60},159x20,0,22{79x20,0,22,61,79x20,80,22,62}]
+      panes:
+        - one:
+            -
+        - two:
+            -
+        - three:
+            -
+        - four:
+            -
