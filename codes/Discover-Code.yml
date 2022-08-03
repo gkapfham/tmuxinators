@@ -1,7 +1,7 @@
 # ~/.tmuxinator/Tea-Code.yml
 
-name: Tea-Code
-root: /home/gkapfham/working/source/tea-project
+name: Discover-Code
+root: /home/gkapfham/working/source/discover-test-coverage/
 
 windows:
   - Code:
