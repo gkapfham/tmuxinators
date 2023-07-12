@@ -1,7 +1,7 @@
 # ~/.tmuxinator/Discover-Subjects-Code.yml
 
 name: Discover-Subjects-Code
-root: /home/gkapfham/working/source/subjects
+root: /home/gkapfham/working/source/discover-subjects
 
 windows:
   - Code:
