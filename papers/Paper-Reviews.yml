@@ -1,7 +1,7 @@
 # ~/.tmuxinator/Paper-Reviews.yml
 
 name: Paper-Reviews
-root: /home/gkapfham/working/writing/paperreviews
+root: /home/gkapfham/working/writing/paper-reviews
 
 windows:
   - Write:
