@@ -1,7 +1,7 @@
 # ~/.tmuxinator/Chair.yml
 
 name: Chair
-root: /home/gkapfham/working/admin/chair
+root: /home/gkapfham/working/administration/chair
 
 windows:
   - Edit:
