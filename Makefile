@@ -1,4 +1,8 @@
-## Create the required directory for the tmuxinator {{{
+## Create the required directory for the tmuxinator program {{{
+
+## Each of the individual tmuxinator configuration files can
+## be selected and run through the use of the tmm alias that
+## uses fzf to select the tmuxinator configuration file to run
 
 ## Delete and create the .tmuxinator/ directory to store all tmuxinator
 delete-and-create-tmuxinator:
