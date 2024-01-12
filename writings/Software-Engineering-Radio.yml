@@ -1,7 +1,7 @@
 # ~/.tmuxinator/Software-Engineering-Radio.yml
 
 name: Software-Engineering-Radio
-root: /home/gkapfham/working/media/podcasts/seradio
+root: /home/gkapfham/working/writing/podcasts/seradio
 
 windows:
   - Edit:
