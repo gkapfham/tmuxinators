@@ -3,9 +3,20 @@
 name: Email
 root: /home/gkapfham
 
+# windows:
+#   - Email:
+#     # - neomutt -n
+#     # - mutt
+#   - Control:
+#     - cd .mutt
+
 windows:
   - Email:
-    # - neomutt -n
-    # - mutt
+    - neomutt
   - Control:
-    - cd .mutt
+      layout: 94ef,177x42,0,0[177x21,0,0,7,177x20,0,22,8]
+      panes:
+        - Commands:
+            - cd .mutt
+        - Mailsync:
+            - mailsync
