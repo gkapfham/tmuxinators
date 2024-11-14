@@ -5,11 +5,14 @@ root: ~/configure/dotfiles
 
 windows:
   - Edit:
-    -
+      - printf '\033]2;%s\033\\' ' Code'
+      - clear
   - Control:
       layout: 94ef,177x42,0,0[177x21,0,0,7,177x20,0,22,8]
       panes:
         - GitHub:
+            - printf '\033]2;%s\033\\' ' GitHub'
             - lazygit
         - Commands:
-            -
+            - printf '\033]2;%s\033\\' '󰘳 Commands'
+            - clear
