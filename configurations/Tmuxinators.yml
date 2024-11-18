@@ -5,13 +5,16 @@ root: ~/configure/tmuxinators
 
 windows:
   - Write:
-    -
+    - printf '\033]2;%s\033\\' ' Code'
   - Control:
       layout: 88a4,159x40,0,0[159x20,0,0,0,159x19,0,21{79x19,0,21,1,79x19,80,21,2}]
       panes:
         - GitHub:
+            - printf '\033]2;%s\033\\' ' GitHub'
             - lazygit
         - Commands:
+            - printf '\033]2;%s\033\\' '󰘳 Commands'
             -
         - Destination:
+        - printf '\033]2;%s\033\\' ' Destination'
             - cd /home/gkapfham/.tmuxinator
