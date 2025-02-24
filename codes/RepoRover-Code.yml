@@ -1,7 +1,7 @@
 # ~/.tmuxinator/RepoRover-Code.yml
 
 name: RepoRover-Code
-root: /home/gkapfham/working/source/RepoRover
+root: /home/gkapfham/working/source/reporover
 
 windows:
   - Code:
