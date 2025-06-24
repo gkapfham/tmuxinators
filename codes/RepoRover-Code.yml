@@ -5,15 +5,20 @@ root: /home/gkapfham/working/source/reporover
 
 windows:
   - Code:
-    -
+    - printf '\033]2;%s\033\\' ' Code'
+    - clear
   - Control:
       layout: 1138,159x42,0,0[159x21,0,0{79x21,0,0,59,79x21,80,0,60},159x20,0,22{79x20,0,22,61,79x20,80,22,62}]
       panes:
-        - one:
-            -
-        - two:
-            -
-        - three:
-            -
-        - four:
-            -
+        - GitHub:
+            - printf '\033]2;%s\033\\' ' GitHub'
+            - lazygit
+        - Testing:
+            - printf '\033]2;%s\033\\' '󰇉 Testing'
+            - clear
+        - Commands:
+            - printf '\033]2;%s\033\\' '󰘳 Commands'
+            - clear
+        - Running:
+            - printf '\033]2;%s\033\\' ' Running'
+            - clear
