@@ -1,0 +1,23 @@
+# ~/.tmuxinator/Oracle-Gaps-Covered-Code.yml
+
+name: Oracle-Gaps-Covered-Code
+root: /home/gkapfham/working/research/writing/softwaretesting/mutation/cc-orbs-ps-paper
+
+windows:
+  - Writing:
+    - printf '\033]2;%s\033\\' ' Writing'
+    - clear
+  - Control:
+      panes:
+        - GitHub:
+            - printf '\033]2;%s\033\\' ' GitHub'
+            - lazygit
+        - Commands:
+            - printf '\033]2;%s\033\\' '󰘳 Commands'
+            - clear
+        - Compiling:
+            - printf '\033]2;%s\033\\' '󰷈 Compiling'
+            - clear
+        - Testing:
+            - printf '\033]2;%s\033\\' '󰇉 Testing'
+            - clear
