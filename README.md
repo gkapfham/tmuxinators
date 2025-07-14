@@ -51,7 +51,7 @@ symbolic links for the Tmuxinators in the `papers` directory.
 stow papers -t ~/.tmuxinator
 ```
 
-If you want to create the required symlinks for all of the tmuxinators that are
+If you want to create the required symlinks for all the tmuxinators that are
 available in this repository, then you can type the command:
 
 ```shell
@@ -64,7 +64,7 @@ If you have any problems with using these Tmuxinator configuration files, then
 please raise an issue associated with this Git repository using the "Issues"
 link at the top of this site. As the sole contributor to the `tmuxinator`
 repository, I will do everything possible to resolve your issue and ensure that
-all of the Tmuxinator configurations are clear and, potentially, best suited to
+all the Tmuxinator configurations are clear and, potentially, best suited to
 working in your development environment. Remember, this repository is being made
 publicly available so as to provide examples of how to write Tmuxinator
 configurations. If you find that these files help you in preparing your own
