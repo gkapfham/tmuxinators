@@ -22,3 +22,12 @@ windows:
         - Commands:
             - printf '\033]2;%s\033\\' '󰘳 Commands'
             - clear
+  - Agents:
+      layout: a1ec,134x38,0,0[134x19,0,0,24,134x18,0,20,26]
+      panes:
+        - Gemini:
+            - printf '\033]2;%s\033\\' '󰵰 Gemini'
+            - npx https://github.com/google-gemini/gemini-cli
+        - OpenCode:
+            - printf '\033]2;%s\033\\' '󰵰 OpenCode'
+            - npx opencode-ai@latest
