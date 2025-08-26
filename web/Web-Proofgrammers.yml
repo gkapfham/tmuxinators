@@ -1,7 +1,8 @@
-# /home/gkapfham/working/web/proofgrammers
+# Web-Proofgrammers.yml
+# /home/gkapfham/working/web/www.proofgrammers.com
 
 name: Web-Proofgrammers
-root: /home/gkapfham/working/web/proofgrammers
+root: /home/gkapfham/working/web/www.proofgrammers.com
 
 windows:
   - Code:
